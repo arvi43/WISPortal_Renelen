@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div style="text-align:center;vertical-align:middle;">
-        <h1>Welcome to My Project WebSite</h1>
+        <h1>Welcome to WIS WebSite</h1>
     </div>
 
 </asp:Content>
