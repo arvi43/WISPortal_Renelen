@@ -1,4 +1,9 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MyProjectSite1.Site1" %>
+﻿<%--*Author : Renelen Verceles
+    * Date : 21-04-2020
+    * Purpose : The UI design for the master page
+    * Contributors:--%>
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MyProjectSite1.Site1" %>
 
 <!DOCTYPE html>
 

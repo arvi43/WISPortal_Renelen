@@ -1,4 +1,10 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="MyProjectSite1.Default" %>
+﻿<%--*Author : Renelen Verceles
+   * Date : 21-04-2020
+   * Purpose : The UI design of the default page of the application, the first page after login
+   * Contributors: --%>
+
+
+<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="MyProjectSite1.Default" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
